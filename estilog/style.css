@@ -1,13 +1,14 @@
-*{
+* {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
 
 }
-body{
+
+body {
     background-color: rgb(168, 104, 228);
 }
 
-main{
+main {
     background-color: aliceblue;
     font-size: 500px;
     margin: auto;
